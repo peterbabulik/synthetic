@@ -28,7 +28,5 @@ storing it's self to fractal structure
 8. Nested_Canopy_Fractal1.ipynb:
    Combination of nested structures and canopy-like fractals, possibly merging concepts from Nested.ipynb and Exponential_Canopy_Fractal.ipynb
 
-9. colab.ipynb:
-   Likely a general-purpose or initial experiment file for running tests in Google Colab environment
 
 Each file represents a different aspect or approach in exploration of fractal-based data encoding and synthetic AI learning, showcasing a comprehensive study of various fractal structures and their applications in data storage and AI development.
