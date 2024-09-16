@@ -28,7 +28,7 @@ storing it's self to fractal structure
 8. Nested_Canopy_Fractal1.ipynb:
    Combination of nested structures and canopy-like fractals, possibly merging concepts from Nested.ipynb and Exponential_Canopy_Fractal.ipynb
 
-9. Synthetic_self_folding_language.ipynb:
+9. Complete_Synthetic_AI_Evolved_Circuits_with_3D.ipynb:
    result demonstrates the success of the evolutionary algorithm in finding a working solution to the logical problem. The AI has effectively learned to combine logical operations in a 3D space to implement the desired function.
 
 Each file represents a different aspect or approach in exploration of fractal-based data encoding and synthetic AI learning, showcasing a comprehensive study of various fractal structures and their applications in data storage and AI development.
