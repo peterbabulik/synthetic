@@ -62,7 +62,7 @@ Overall, this project presents another unique approach to data encoding and deco
 
 
 3. Nested.ipynb:
-   Synthetic AI (randomly generated parameters) teaching itself to encode/decode data, storing itself in a fractal structure
+   
 
 Project Description: Synthetic AI for Data Encoding and Decoding with Error Correction using Nested 1/n+1 Fractals (GPU Accelerated)
 This project introduces a novel approach to data storage that leverages the self-similar nature of nested 1/n+1 fractals and the capabilities of a trainable Synthetic AI. It utilizes GPU acceleration for faster computations.
@@ -126,7 +126,7 @@ Overall, this project presents a unique approach to data storage with an emphasi
 
 
 5. Exponential_Canopy_Fractal.ipynb:
-   Exploration of a fractal structure with exponential growth, possibly forming a canopy-like shape
+   
 
 Project Description: High-Capacity Data Storage with Trainable AI and Error Correction using Exponential Canopy Fractals (GPU Accelerated)
 This project explores a method for data storage that leverages the expansive nature of exponential canopy fractals, the capabilities of a trainable Synthetic AI, and incorporates error correction mechanisms. It utilizes GPU acceleration for faster computations.
@@ -160,7 +160,7 @@ Additional Notes:
 
 
 6. Logarithmic.ipynb:
-   Study of fractal structures with logarithmic growth patterns
+   
 
 Project Description: Efficient Data Storage with Trainable AI and Error Correction using Logarithmic Bloom Fractals (GPU Accelerated)
 This project introduces a novel approach to data storage that leverages the efficient growth pattern of logarithmic bloom fractals, the capabilities of a trainable Synthetic AI, and incorporates error correction mechanisms. It utilizes GPU acceleration for faster computations.
@@ -195,7 +195,7 @@ Additional Notes:
 
 
 7. Multi Level Nesting.ipynb:
-   Examination of fractal structures with multiple levels of nested patterns, potentially a more complex version of Nested.ipynb
+   Examination of fractal structures with multiple levels of nested patterns, a more complex version of Nested.ipynb
 
 Project Description: High-Capacity Hierarchical Data Storage with Trainable AI and Error Correction using Nested 1/n+1 Fractals (GPU Accelerated)
 This project explores a method for hierarchical data storage that leverages the intricate structure of nested 1/n+1 fractals, the capabilities of a trainable Synthetic AI, and incorporates error correction mechanisms. It utilizes GPU acceleration for faster computations.
@@ -230,6 +230,7 @@ Additional Notes:
 
 8. nested 1/n+1 fractal AI system.ipynb:
 
+
 Nested 1/n+1 Fractal AI System for Data Storage with Error Correction
 This project explores a method for data storage that utilizes the intricate structure of nested 1/n+1 fractals, the capabilities of a trainable Synthetic AI, and incorporates error correction mechanisms.
 Project Goals:
@@ -263,6 +264,7 @@ Additional Notes:
 
 
 9. Complete_Synthetic_AI_Evolved_Circuits_with_3D.ipynb:
+
    result demonstrates the success of the evolutionary algorithm in finding a working solution to the logical problem. The AI has effectively learned to combine logical operations in a 3D space to implement the desired function.
 
 Project Title: Evolving Neural Circuits with Trainable AI for Complex Logic (GPU Accelerated)
@@ -299,7 +301,9 @@ Additional Notes:
 -----------_-------------------_-------------------
 
 
-10. MNIST_Autoencoder_with_CUDA_Acceleration.ipynb
+10. MNIST_Autoencoder_with_CUDA_Acceleration.ipynb:
+
+
 This project implements a convolutional autoencoder on the MNIST handwritten digit dataset using CUDA for faster computations.
 Project Goals:
  * Train a deep learning model (autoencoder) to compress and reconstruct MNIST digit images.
