@@ -216,13 +216,10 @@ Additional Notes:
  * The project highlights the importance of the Synthetic AI's training process for accurate data encoding and decoding.
 
 
-8. Nested_Canopy_Fractal1.ipynb:
-   Combination of nested structures and canopy-like fractals, merging concepts from Nested.ipynb and Exponential_Canopy_Fractal.ipynb
-
-9. Complete_Synthetic_AI_Evolved_Circuits_with_3D.ipynb:
+8. Complete_Synthetic_AI_Evolved_Circuits_with_3D.ipynb:
    result demonstrates the success of the evolutionary algorithm in finding a working solution to the logical problem. The AI has effectively learned to combine logical operations in a 3D space to implement the desired function.
 
-10. MNIST_Autoencoder_with_CUDA_Acceleration.ipynb
+9. MNIST_Autoencoder_with_CUDA_Acceleration.ipynb
 This project implements a convolutional autoencoder on the MNIST handwritten digit dataset using CUDA for faster computations.
 Project Goals:
  * Train a deep learning model (autoencoder) to compress and reconstruct MNIST digit images.
