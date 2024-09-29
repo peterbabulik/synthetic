@@ -347,7 +347,6 @@ Trying these suggestions might lead to faster training and potentially better re
 
 11. RH.ipynb
 
-
 Purpose:
  * The code aims to explore the connection between the Riemann hypothesis and fractal structures.
  * It uses an artificial neural network to approximate the Riemann zeta function and generates a fractal based on the approximation.
@@ -368,3 +367,21 @@ Additional Notes:
  * The loss function is designed to encourage the model to find zeros of the zeta function and minimize the absolute value of the function in the critical strip.
  * The fractal structure is inspired by the prime number distribution and the oscillatory behavior of the zeta function.
 
+12. RH 2.ipynb
+
+This code builds upon the previous one by incorporating the spectral interpretation of the Riemann zeta function. Here's a breakdown of the key additions and modifications:
+AdvancedRiemannAI Class:
+ * Spectral Interpretation Parameters:
+   * spectral_dim: This attribute defines the dimension of the spectral space used to represent the spectral interpretation.
+   * spectral_matrix: This attribute is a tensor that will be used to store the spectral operator.
+ * spectral_operator Function:
+   * This function implements a spectral operator inspired by the Berry-Keating conjecture. It takes a complex number s as input, representing a point in the complex plane, and returns a value based on the real and imaginary parts of s.
+ * fractal_dimension Function:
+   * This function remains from the previous code, but here it's used to estimate the fractal dimension of the spectrum obtained from the spectral operator.
+ * loss_function Function:
+   * A new term spectral_loss is added to the loss function. This term encourages the spectral operator to have values close to zero for points in the critical strip (where the real part of the Riemann zeta function is zero).
+   * A new term fractal_loss is added to the loss function. This term encourages the estimated fractal dimension of the spectrum to be close to 1.5 (a value conjectured to be related to the Riemann zeta function).
+ * main Function:
+   * After training the model, the code plots the estimated fractal dimension of the spectrum alongside other outputs.
+   * A new plot is added to visualize the values of the spectral operator for different imaginary parts of s.
+Overall, this code introduces the spectral interpretation of the Riemann zeta function and attempts to find connections between the approximated zeta function, the spectrum of a corresponding operator, and its fractal dimension. It uses these connections to guide the training process of the neural network.
